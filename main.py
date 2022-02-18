@@ -1,3 +1,5 @@
+# I wrote this for some reason...
+
 from utime import sleep_ms
 import machine
 import time
