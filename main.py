@@ -1,4 +1,5 @@
 # I wrote this for some reason...
+# Trying to get rid of Alpaca King
 
 from utime import sleep_ms
 import machine
